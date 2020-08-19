@@ -14,7 +14,7 @@ cmake, make, and g++ or clang compiler installed.
 
 In this project, we implemented the algorithm for drawing a mandelbrot fractal and colored the image based on the number of iterations that each pixel's (x,y) coordinates stayed within the threshold of the mandelbrot set.
 
-Below are links to the Wikipedia page for the Mandelbrot Set and also an interesting video about the Mandelbrot Set I enjoyed viewing while doing this project and learning more about fractals.
+Below are links to the Wikipedia page for the Mandelbrot Set and also an interesting video about the Mandelbrot Set I enjoyed viewing while coding this project and learning more about fractals.
 
 [Mandelbot Set Wikipedia Page](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
@@ -31,6 +31,7 @@ make
 ```
 
 ## C++ Features
-Each one of the .cpp files in the subfolders can be compiled an run individually. 
+Each one of the .cpp files in the subfolders of can be compiled and run individually.
 
+## Certificate
 <img src="/media/certificate-kj.jpg" width="600" height="400" />
