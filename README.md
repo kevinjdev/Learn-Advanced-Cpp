@@ -33,5 +33,5 @@ make
 ## C++ Features
 Each one of the .cpp files in the subfolders of can be compiled and run individually.
 
-## Certificate
+## Course Completion Certificate
 <img src="/media/certificate-kj.jpg" width="600" height="400" />
