@@ -1,5 +1,5 @@
 # Learn-Advanced-Cpp-Udemy
-In the first part of this course, we wrote simple programs demonstrating C++ syntax for working with files, exceptions, function pointers, templates, and many C++ 11 features. These one file programs are located within the C++ Features Folder. In the second part, we developed a Fractal program that draws a Mandelbrot Fractal image and saves the image as a .bmp file. This program is located in the Fractal folder, and can be built using cmake.
+In the first part of this course, we wrote simple programs demonstrating C++ syntax for working with files, exceptions, function pointers, templates, and many C++ 11 features. These one file programs are located within the C++ Features folder. In the second part, we developed a Fractal program that draws a Mandelbrot Fractal image and saves the image as a .bmp file. This program is located in the Fractal folder, and can be built using cmake.
 
 ## Getting Started
 Clone the repository to your local machine by running the following command in a terminal window or command prompt from the location you wish to copy the folder
